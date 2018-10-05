@@ -1,2 +1,7 @@
 # input files
 *.txt
+
+.classpath
+.project
+bin/
+.settings/
